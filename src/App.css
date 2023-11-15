@@ -11,11 +11,15 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
 }
 
-.card_header{
-  background-color: #ecec;
+.card_header input{
+  width: 80%;
+   background-color: #ecec;
   padding: 2rem;
+  margin-left: 1rem;
   border-radius: 1.5rem;
   font-size: 20px;
+  border: none;
+  outline: none;
 }
 
 
