@@ -1,12 +1,14 @@
+body{
+background-color:wheat;
+}
 .card_main{
   width: 450px;
   height: 550px;
   background-color: #8A8DBA;
   padding: 50px 30px;
   position: absolute;
-  /* transform: translate(100%, 5%); */
-  transform: translate(20%, 5%);
-
+  transform: translate(100%, 5%);
+  /* transform: translate(20%, 5%); */
   border-radius: 20px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8);
 }
@@ -15,7 +17,6 @@
   width: 80%;
    background-color: #ecec;
   padding: 2rem;
-  margin-left: 1rem;
   border-radius: 1.5rem;
   font-size: 20px;
   border: none;
