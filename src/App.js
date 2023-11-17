@@ -7,7 +7,11 @@ const App = () => {
 
   return(
     <div className="App">
+      <h1 id="text">CALCULATOR</h1>
+      <div>
+
       <Calculator/>
+      </div>
     
     </div>
   )
